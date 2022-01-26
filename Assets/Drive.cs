@@ -3,7 +3,7 @@ using UnityStandardAssets.CrossPlatformInput;
 
 public class Drive : MonoBehaviour
 {
-    float speed = 1.5F;
+    float speed = 1.0F;
     float rotationSpeed = 50.0F;
 
     Animator animator;
